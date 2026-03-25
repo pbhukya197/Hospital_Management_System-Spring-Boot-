@@ -97,8 +97,12 @@ mvn spring-boot:run
 ### 🔹 Home Page
 ![Home Page](images/hms1.png)
 
-
+### 🔹 Login Page
+![Login Page](images/loginhms.png)
 ---
+
+### 🔹 Register Page
+![Register Page](images/registerhms.png)
 
 ## 📄 Documentation
 
