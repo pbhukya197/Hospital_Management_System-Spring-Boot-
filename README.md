@@ -102,7 +102,7 @@ mvn spring-boot:run
 ---
 
 ### 🔹 Register Page
-![Register Page](images/registerhms.png)
+![Register Page](images/register-hms.png)
 
 ## 📄 Documentation
 
