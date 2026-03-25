@@ -45,7 +45,7 @@
         <div class="card custom-bg ml-5 mr-3 mb-5">
     <img class="card-img-top img-responsive rounded mx-auto d-block" style="height: 15rem; max-width:80%; max-height:auto" src="resources/images/adminpic.png" alt="img" >
     <div class="card-body">
-      <a href="/adminregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Admin Register</h2></a>
+      <a href="/hospital-management-system/adminregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Admin Register</h2></a>
       <p class="card-text">Administrator will monitor all Users.</p>
     </div>
   </div>
@@ -54,7 +54,7 @@
         <div class="card custom-bg ml-5 mr-3 mb-5">
     <img class="card-img-top rounded mx-auto d-block" style="height: 15rem; max-width:80%; max-height:auto" src="resources/images/doctorpic.png" alt="img" >
     <div class="card-body">
-      <a href="/doctorregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Doctor Register</h2></a>
+      <a href="/hospital-management-system/doctorregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Doctor Register</h2></a>
       <p class="card-text">Doctor will treat patient.</p>
     </div>
   </div>
@@ -63,7 +63,7 @@
         <div class="card custom-bg ml-5 mr-3 mb-5">
     <img class="card-img-top rounded mx-auto d-block" style="height: 15rem; max-width:80%; max-height:auto" src="resources/images/pharmacistpic.png" alt="img" >
     <div class="card-body">
-      <a href="/pharmacistregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Pharmacist Register</h2></a>
+      <a href="/hospital-management-system/pharmacistregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Pharmacist Register</h2></a>
       <p class="card-text">Pharmacist will handle Medicines.</p>
     </div>
   </div>
@@ -72,7 +72,7 @@
         <div class="card custom-bg ml-5 mr-3 mb-5">
     <img class="card-img-top rounded mx-auto d-block mt-1" src="resources/images/receptionistpic.png" alt="img" >
     <div class="card-body">
-      <a href="/receptionistregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Reception Register</h2></a>
+      <a href="/hospital-management-system/receptionistregister" class="card-title non-underline-link text-color non-underline-link"><h2 class="card-title text-center text-color">Reception Register</h2></a>
       <p class="card-text">Receptionist will register, make bill for patient.</p>                                                                                          
     </div>
   </div>
