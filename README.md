@@ -95,6 +95,7 @@ mvn spring-boot:run
 ## 📸 Screenshots
 
 ### 🔹 Home Page
+![Home Page](images/home.png)
 
 
 ---
