@@ -101,9 +101,6 @@ mvn spring-boot:run
 ![Login Page](images/loginhms.png)
 ---
 
-### 🔹 Register Page
-![Register Page](images/register-hms.png)
-
 ## 📄 Documentation
 
 * JavaDoc available in: `target/site/apidocs`
